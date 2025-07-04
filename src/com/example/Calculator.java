@@ -3,7 +3,7 @@ package com.example;
 import com.example.myPackage.*;
 public class Calculator {
 	 	
-		int value;
+		int value, value2;
 	    
 		private void add() {
 	        System.out.println("I can add......");
