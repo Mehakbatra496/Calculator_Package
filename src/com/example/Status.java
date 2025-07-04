@@ -8,7 +8,8 @@ public enum Status {
 	RETURNED,
 	DELIVERED,
 	PENDING,
-	DONE
+	DONE,
+	NOTDONE
 	
 }
 
