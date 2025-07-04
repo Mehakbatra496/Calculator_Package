@@ -7,7 +7,8 @@ public enum Status {
 	CANCELLED,
 	RETURNED,
 	DELIVERED,
-	PENDING
+	PENDING,
+	DONE
 	
 }
 
